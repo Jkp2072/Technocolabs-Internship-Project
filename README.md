@@ -1,1 +1,1 @@
-# WebDevInternship-technocolabs
+# Technocolabs Internship Project
